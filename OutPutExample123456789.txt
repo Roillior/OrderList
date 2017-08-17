@@ -1,0 +1,33 @@
+Name       Price      Quantity  
+
+Bread      5.00       5         
+
+
+Tomato Soup 15.00      4         
+
+
+Small salad 17.00      4         
+
+
+Burger     61.00      5         
+
+
+Big Salad  48.00      4         
+
+
+Beef Steak 65.00      4         
+
+
+Lemon Cake 25.00      4         
+
+
+Fruit Salad 20.00      3         
+
+
+Beer       17.00      4         
+
+
+Mineral Water  6.00       5         
+
+
+The Bill Is: 1168.0

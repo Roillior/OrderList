@@ -1,0 +1,42 @@
+Bread
+First Course
+5
+Tomato Soup
+First Course
+15
+corn Bread
+First Course
+7
+Small salad
+First Course
+17
+Burger
+Second Course
+61
+Big Salad
+Second Course
+48
+Sweet Potato
+Second Course
+14
+Beef Steak
+Second Course
+65
+Lemon Cake
+Dessert
+25
+Cheese cake
+Dessert
+25
+Fruit Salad
+Dessert
+20
+Beer
+Drink
+17
+juice
+Drink
+8
+Mineral Water 
+Drink
+6

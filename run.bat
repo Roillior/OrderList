@@ -1,0 +1,2 @@
+java MenuTest
+pause
